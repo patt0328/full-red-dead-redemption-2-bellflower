@@ -199,7 +199,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Red Dead Redemption 2 · Updated 2026-11-27 · Shared under the MIT License*
+*Red Dead Redemption 2 · Updated 2026-11-28 · Shared under the MIT License*
 
 
-Updated 2026-11-27.
+Updated 2026-11-28.
